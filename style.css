@@ -282,8 +282,8 @@ section.landing .profile-area .outer-circle span:nth-child(4) {
 
 section.landing .profile-area .inner-circle {
     position: absolute;
-    width: 18rem;
-    height: 18rem;
+    width: 21rem;
+    height: 21rem;
     border-radius: 50%;
     overflow: hidden;
 }
@@ -664,7 +664,7 @@ footer .copyright {
 }
 
 /* ======================= MEDIA ======================= */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 7400px) {
     h1 {
         font-size: 2.2rem;
     }
@@ -687,16 +687,16 @@ footer .copyright {
 
     .container {
         width: 94%;
-        padding: 0 32px;
     }
 
     /* ===================== NAV BAR ===================== */
-    nav h3 {
-        /* margin-left: 1rem; */
-    }
+    /* nav h3 {
+        margin-left: 1rem;
+    } */
 
     nav .container {
         width: 100%;
+        padding: 0 16px;
     }
 
     nav .container ul {
