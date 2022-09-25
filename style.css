@@ -820,6 +820,10 @@ footer .copyright {
         text-align: center;
     }
 
+    section.about .image img {
+        width: 50%;
+    }
+
     /* ========================= SKILLS SECTION ========================= */
     section.skills .container {
         width: 94%;
